@@ -10,6 +10,7 @@ gosperglidergun_106.lif|sample life1.06 file that initializes the game board for
 sampleout|sample output of the gosper slider gun pattern with 20 steps
 
 **How to run:**
+
 python3 conways_game_of_life.py {filename} {n}
 
 Where filename is the name of a Life 1.06 file, and n is the number of generations to play.
