@@ -6,7 +6,7 @@ Included files:
 Filename | Description
 ---------|-------------
 conways_game_of_life.py|python3 source code that simulates Conway's Game of Life
-gosperglidergun_106.lif|sample life file containing the initial state of the game board
+gosperglidergun_106.lif|sample life file which contains a specific initial state of the game board
 
 **How to run:**
 
